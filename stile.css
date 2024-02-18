@@ -1,0 +1,9 @@
+#contatore {
+    text-align: center;
+    font-size: 24px;
+}
+
+#contatore p {
+    display: inline-block;
+    margin: 0 10px;
+}
